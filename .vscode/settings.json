@@ -1,0 +1,8 @@
+{
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
